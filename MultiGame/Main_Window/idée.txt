@@ -1,0 +1,14 @@
+Démineur                == OK
+Labyrinthe              == OK
+Snake                   ==
+Sudoku                  ==
+Morpion                 == OK
+Tetris                  ==
+Alien Shooter           ==
+Casse-Brick             ==
+Worldle                 == OK
+MasterMind              ==
+
+ONLINE / 2 Player :
+Bataille Navale         ==
+Puissance 4             ==
